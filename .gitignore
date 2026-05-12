@@ -1,0 +1,55 @@
+# Xcode
+#
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+#
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# Fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# Xcode Archives
+#
+*.xcarchive
+
+# User settings
+#
+*.swp
+*.lock
+*.DS_Store
+*.plist
+*.mode1v3
+*.pbxuser
+*.perspectivev3
+*.xcuserdatad
+*.moved-aside
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI Previews
+#
+*.preview-thumbnails
+*.preview-device
